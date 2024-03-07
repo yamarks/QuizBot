@@ -8,7 +8,7 @@
 
 1. Клонируем проект себе на ПК
 ```
-git clone https://github.com/Zipliks/telegram-quiz-python.git
+git clone https://github.com/yamarks/QuizBot.git
 ```
 2. Создаём виртуальное окружение в папке с проектом
 ```
