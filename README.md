@@ -12,7 +12,7 @@ git clone https://github.com/yamarks/QuizBot.git
 ```
 2. Создаём виртуальное окружение в папке с проектом
 ```
-cd telegram-quiz-python
+cd QuizBot
 python3 -m venv .venv
 source .venv/Scripts/activate
 ```
